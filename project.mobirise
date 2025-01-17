@@ -317,10 +317,11 @@
     "chatbutton": {},
     "screenshot": "screenshot.png",
     "modified": "2024-11-03T11:35:06.088Z",
-    "mbrsiteDomain": "elpeqjxair",
+    "mbrsiteDomain": "qu5iz16ten",
     "usedWebp": false,
     "publishChangesOnly": true,
-    "publishEditFolder": true
+    "publishEditFolder": true,
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-W1C253MZRH\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-W1C253MZRH');\n</script>"
   },
   "pages": {
     "index.html": {
